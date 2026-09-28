@@ -2,7 +2,7 @@
 
 This is a small web app that sorts customer support tickets automatically. A customer types their problem into a form, a machine learning model decides whether it is a **Technical**, **Billing** or **General Inquiry** ticket, and the ticket shows up on a dashboard for support agents.
 
-Demo video: https://drive.google.com/file/d/1XZv--UiCc8wRhQX_Av5QJSjee5zMVHpV/view?usp=sharing
+
 
 ## How it works
 
